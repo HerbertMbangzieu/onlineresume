@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&family=Space+Mono&display=swap");
+
+* {
+  font-family: "QuickSand";
+}
+#global {
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 20px;
+  box-shadow: 10px 10px 10px 10px #ccc;
+  padding-left: 15px;
+  font-size: 16px;
+  display: flex;
+}
+#left {
+  width: 650px;
+  padding: 0 20px;
+  /* margin-right: 10px; */
+  padding-bottom: 20px;
+  border-right: 1px solid #c69926;
+}
+#right {
+  width: 350px;
+  padding-left: 20px;
+  background: #f8efda;
+  padding-bottom: 20px;
+}
+#identity {
+  border-top: 4px solid #73570f;
+  width: 100%;
+}
+.name {
+  font-weight: 600;
+  font-size: 24px;
+}
+i {
+  color: #73570f;
+  margin: 17px 20px;
+}
+.contact-item {
+  display: flex;
+}
+.skill-item {
+  display: flex;
+  margin-bottom: -20px;
+}
+
+.title {
+  margin-top: 20px;
+  color: #c69926;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.title div {
+  width: 50%;
+  height: 2px;
+  margin-top: 10px;
+  margin-bottom: -10px;
+  display: flex;
+  justify-content: start;
+  background-color: #c69926;
+}
+.first-row {
+  display: flex;
+  margin: 10px 0;
+  font-weight: 600;
+  margin-top: 30px;
+}
+.first-row div {
+  display: flex;
+}
+.job-position {
+  justify-content: start;
+  width: 100%;
+}
+.job-duration {
+  justify-content: end;
+  width: 100%;
+}
+.job-company {
+  font-weight: 600;
+  color: #c69926;
+  margin-bottom: 20px;
+}
+.job-description {
+  text-align: justify;
+}
+
+.tool {
+  display: flex;
+  flex-wrap: wrap;
+}
+#sub-language{
+    display: flex;
+}
+.language-item{
+    width: 100%;
+}
+.language{
+    font-weight: 600;
+}
+
+.level{
+    color:#bbb
+}
