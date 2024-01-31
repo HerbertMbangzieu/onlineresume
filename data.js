@@ -12,7 +12,10 @@ export const data = {
     },
     email: { text: "herbertmbangzieu@gmail.com", icon: "envelope" },
     phone: { text: "+1 (443) 285 2804", icon: "phone" },
-    website: { text: "herbertmbangzieu.github.io", icon: "earth-americas" },
+    website: {
+      text: "<a href='http://herbertmbangzieu.github.io/website/' target='_blank'>herbertmbangzieu.github.io/website/</a>",
+      icon: "earth-americas",
+    },
   },
   jobs: [
     {

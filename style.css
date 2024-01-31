@@ -39,6 +39,7 @@ i {
 }
 .contact-item {
   display: flex;
+  font-size: 14px;
 }
 .skill-item {
   display: flex;
