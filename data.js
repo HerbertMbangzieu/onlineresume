@@ -7,11 +7,11 @@ export const data = {
   },
   contact: {
     address: {
-      text: "Softwind 16, Owings Mills, MD, 21117",
+      text: "16 Softwind ct, Owings Mills, MD, 21117",
       icon: "location-dot",
     },
     email: { text: "herbertmbangzieu@gmail.com", icon: "envelope" },
-    phone: { text: "+1 (443) 7895", icon: "phone" },
+    phone: { text: "+1 (443) 285 2804", icon: "phone" },
     website: { text: "herbertmbangzieu.github.io", icon: "earth-americas" },
   },
   jobs: [
