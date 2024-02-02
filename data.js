@@ -93,6 +93,7 @@ export const data = {
     { text: "PHP", icon: "fab fa-php" },
     { text: "Laravel", icon: "fab fa-laravel" },
     { text: "MySQL", icon: "fas fa-database" },
+    { text: "Quality Assurance", icon: "fas fa-thumb" },
   ],
   tools: [
     { text: "VS Code", icon: "fas fa-code" },
@@ -101,6 +102,10 @@ export const data = {
     { text: "Notion", icon: "fab fa-html5" },
     { text: "Google-Meet", icon: "fab fa-google" },
     { text: "Github", icon: "fab fa-github" },
+    { text: "Office Word", icon: "fa-solid fa-file-word" },
+    { text: "Office Excel", icon: "fa-solid fa-file-excel" },
+    { text: "Office Powerpoint", icon: "fa-solid fa-file-powerpoint" },
+    { text: "Office Access", icon: "fa-brands fa-microsoft" },
   ],
   languages: [
     { lang: "French", level: "Native - Proficiency" },
