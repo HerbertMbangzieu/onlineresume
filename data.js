@@ -3,7 +3,7 @@ export const data = {
     firstname: "Herbert Flavien",
     lastname: "Nguemeni Mbangzieu",
     description:
-      "Passionate in Web and Mobile development. <br> Translating UI Design into Graphical Interface web page.<br>Implementing web page interactivity with data and users",
+      "I am a 36 years old man resident in USA.Passionate in Web and Mobile development. <br> Translating UI Design into Graphical Interface web page.<br>Implementing web page interactivity with data and users",
   },
   contact: {
     address: {
